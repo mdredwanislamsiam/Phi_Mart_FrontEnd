@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { BrowserRouter, Route, Routes } from 'react-router'
 import AppRoutes from './routes/AppRoutes.jsx'
-import AuthContext, { AuthProvider } from './context/authContext.jsx'
+import AuthContext, { AuthProvider } from './context/AuthContext.jsx'
 
 
 createRoot(document.getElementById("root")).render(
