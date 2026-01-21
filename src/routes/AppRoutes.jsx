@@ -5,7 +5,7 @@ import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/Home";
 import Shop from "../pages/Shop";
 import Login from "../pages/Login";
-import Register from "../pages/register";
+import Register from "../pages/Register";
 import Dashboard from "../pages/Dashboard";
 import PrivateRoute from "../components/PrivateRoute";
 import ActivateAccount from "../components/RegistrationAccount/ActivateAccount";
